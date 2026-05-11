@@ -22,6 +22,8 @@ JSpider/
 │── NumberPrograms/
 │── Sorting/
 │── Searching/
+
+pactice daily
 🎯 Purpose of This Repository
 Improve problem-solving skills
 Prepare for technical interviews
